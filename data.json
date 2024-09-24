@@ -1,0 +1,40 @@
+{
+    "Room": {
+        "room01": {
+            "Address": "23 Trương Định, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",
+            "Id": "KSQ101",
+            "Image": "https://firebasestorage.googleapis.com/v0/b/databasebookinghotel.appspot.com/o/picture%2F123657836.jpg?alt=media&token=bed6ab26-00dd-4b27-972f-0cef1f228f9a",
+            "Name": "DAZI SIGNATURE HOTEL",
+            "Price": 500000,
+            "Rate": 3,
+            "Type": "Vip"
+        },
+        "room02": {
+            "Address": "Số 3/113 Phố Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội, Việt Nam",
+            "Id": "KSQ102",
+            "Image": "https://firebasestorage.googleapis.com/v0/b/databasebookinghotel.appspot.com/o/picture%2F293270508.jpg?alt=media&token=effa9ba0-5d1b-4597-8ca6-29b0dac11ab5",
+            "Name": "LAS VEGAS",
+            "Price": 700000,
+            "Rate": 4,
+            "Type": "VIP 1"
+        },
+        "room03": {
+            "Address": "Số 7/165 Phố Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội, Việt Nam",
+            "Id": "KSQ103",
+            "Image": "https://firebasestorage.googleapis.com/v0/b/databasebookinghotel.appspot.com/o/picture%2F360723270.jpg?alt=media&token=02392beb-0300-42b1-995b-61e591874151",
+            "Name": "LAS NATA",
+            "Price": 1000000,
+            "Rate": 5,
+            "Type": "VIP 3"
+        },
+        "room04": {
+            "Address": "Số 8/258 Phố Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành Phố Hà Nội, Việt Nam",
+            "Id": "KSQ104",
+            "Image": "https://firebasestorage.googleapis.com/v0/b/databasebookinghotel.appspot.com/o/picture%2F360723334.jpg?alt=media&token=9b7a47b9-24b1-4764-8560-2c186685b976",
+            "Name": "LAS ESU",
+            "Price": 2000000,
+            "Rate": 5,
+            "Type": "VIP 2"
+        }
+    }
+}
